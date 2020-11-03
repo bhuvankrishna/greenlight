@@ -10,6 +10,7 @@ vendor/bundle
 
 # Ignore the default SQLite database.
 /db
+/db-old
 /db/*.sqlite3
 /db/*.sqlite3-journal
 
