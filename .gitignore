@@ -8,6 +8,9 @@
 /.bundle
 vendor/bundle
 
+# Ignore Gemfile
+Gemfile
+
 # Ignore the default SQLite database.
 /db
 /db-old
