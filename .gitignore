@@ -9,7 +9,7 @@
 vendor/bundle
 
 # Ignore Gemfile
-Gemfile
+#Gemfile
 
 # Ignore the default SQLite database.
 /db

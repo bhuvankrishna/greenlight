@@ -314,7 +314,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "Collab3 is a server hosted by %{href}. Come be a part of the future. The future is being together in harmony and solidarity with each other. Take the first step of being part of the change."
     welcome: Welcome to Collab3.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
